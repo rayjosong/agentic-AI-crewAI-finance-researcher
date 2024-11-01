@@ -1,8 +1,17 @@
-streamlit==1.37.1
-crewai==0.51.1
-yfinance==0.2.43
-pandas==2.2.2
-numpy==1.26.4
-langchain_groq==0.1.9
-langchain==0.3.0
-langchain-core==0.2.42
+# streamlit==1.37.1
+# crewai==0.51.1
+# yfinance==0.2.43
+# pandas==2.2.2
+# numpy==1.26.4
+# langchain_groq==0.2.0
+# langchain==0.3.0
+# langchain-core==0.3
+
+streamlit
+crewai
+yfinance
+pandas
+numpy
+langchain_groq
+langchain
+langchain-core
