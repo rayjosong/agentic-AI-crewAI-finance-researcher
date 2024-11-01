@@ -6,6 +6,8 @@ This Streamlit application provides an interactive dashboard for advanced stock 
 
 This project is heavily inspired by the work of Batuhan Sen (https://medium.com/@batuhansenerr) and his article on "AI-Powered Financial Analysis: Multi-Agent Systems Transform Data into Insights" (https://medium.com/@batuhansenerr/ai-powered-financial-analysis-multi-agent-systems-transform-data-into-insights-d94e4867d75d). The core codebase and agent structure are adapted from his original implementation. 
 
+This is my first time using CrewAI and exploring Agentic Workflows and the work by Batuahn Sen was a great help in getting started, especially since its in a problem domain that I am interested in. I am making this public so that I can use it wherever I go.
+
 ## How it Works
 
 The application utilizes a team of specialized AI agents, each responsible for a specific aspect of stock analysis:
